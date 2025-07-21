@@ -1,0 +1,29 @@
+:root {
+    --base-color: #284394 !important;
+}
+
+.bg-base-color {
+    background-color: #284394 !important;
+}
+
+.text-base-color {
+    color: #284394 !important;
+}
+
+.btn.btn-base-color {
+    background-color: #284394 !important;
+    border-color: #284394 !important;
+}
+
+.btn.btn-transparent-base-color:hover {
+    background-color: #284394 !important;
+    border-color: #284394 !important;
+}
+
+.text-base-color-hover:hover {
+    color: #284394 !important;
+}
+
+.bg-gradient-fast-blue-purple {
+    background-image: linear-gradient(to right top, #284394, #5f42f9, #833cfc, #a233fe, #bf25ff) !important;
+}
