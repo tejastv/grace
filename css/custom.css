@@ -1,0 +1,57 @@
+:root {
+    --base-color: #284394 !important;
+}
+
+.bg-base-color {
+    background-color: #284394 !important;
+}
+
+.text-base-color {
+    color: #284394 !important;
+}
+
+.btn.btn-base-color {
+    background-color: #284394 !important;
+    border-color: #284394 !important;
+}
+
+.btn.btn-transparent-base-color:hover {
+    background-color: #284394 !important;
+    border-color: #284394 !important;
+}
+
+.text-base-color-hover:hover {
+    color: #284394 !important;
+}
+
+.bg-gradient-fast-blue-purple {
+    background-image: linear-gradient(to right top, #284394, #5f42f9, #833cfc, #a233fe, #bf25ff) !important;
+}
+
+.navbar-nav .dropdown-menu {
+    width: 300px !important;
+    white-space: normal !important;
+}
+
+.navbar-nav .dropdown-menu a {
+    white-space: normal !important;
+    word-wrap: break-word !important;
+}
+
+.navbar-brand img {
+    max-height: 40px; 
+    width: auto;
+}
+
+.navbar-brand {
+    padding: 15px 0;
+}
+
+.bg-custom-blue {
+    background-color: #2946f3 !important;
+}
+
+.btn.btn-custom-blue {
+    background-color: #2946f3 !important;
+    border-color: #2946f3 !important;
+}
